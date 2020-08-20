@@ -1,7 +1,16 @@
 ### Hi everyone 👋
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-I am ASHOK KUMAR. I am a final engineering graduate student passionate about Data Science, Deep Learning, Computer Vision, Natural Language Processing proficient on Python(Programming Language), Machine Learning(Supervised & Unsupervised), Tableau(Data Visualization), Beautiful Soup(Web Scraping), Flask(Web Application Development), Bootstrap(Front End Development), Heroku(Hosting SaaS Platform), MySQL, MongoDB, etc..., My favourite IDE are Pycharm and Sublime Text.
+<img align="right" alt="Coder GIF" height=200 width=300 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<p align="justify">
+  
+  I am [Ashok kumar](https://data-scientist-ashok.herokuapp.com/). I am a final year **Engineering Graduate** student passionate about **Data Science**, Deep Learning, **Computer Vision**, Natural Language Processing proficient on **Python**(Programming Language), Machine Learning(Supervised & Unsupervised), **Tableau**(Data Visualization), Beautiful Soup(**Web Scraping**), **Flask**(Web Application Development), **Bootstrap**(Front End Development), **Heroku**(Hosting SaaS Platform), MySQL, MongoDB, etc..., My favourite IDE are **Pycharm** and **Sublime Text**.
+  
+  <p align="center">
+  
+  I am actively seeking for **Data Science Internship**
+  
+  </p>
 
+</p>
 
 <h1 align="center">SKILLS & TECHNOLOGIES</h1>
 <div align="center">

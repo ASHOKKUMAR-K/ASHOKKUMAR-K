@@ -1,4 +1,4 @@
-### Hi everyone 👋
+### Hi everyone <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 <img align="right" alt="Coder GIF" height=200 width=300 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <p align="justify">
   
@@ -11,7 +11,7 @@
   </p>
 
 </p>
-
+<br>
 <h1 align="center">SKILLS & TECHNOLOGIES</h1>
 <div align="center">
 
@@ -37,9 +37,8 @@
 <code><img height="70" src="https://user-images.githubusercontent.com/41292977/90758371-8c32d900-e2fc-11ea-92fd-d444a3bbaa18.jpg" title="heroku"></code>&nbsp;&nbsp;&nbsp;
 <code><img height="70" src="https://user-images.githubusercontent.com/41292977/90758511-c43a1c00-e2fc-11ea-9e0c-97b44871fe04.jpg" title="heroku"></code>&nbsp;&nbsp;&nbsp;
 
-
 </div>
-
+<br><br>
 <div align="center">
   <a href="https://github.com/ASHOKKUMAR-K"> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ASHOKKUMAR-K&show_icons=true&title_color=00ff00&icon_color=00ff00&text_color=dddddd&bg_color=222222" alt="Ashok GitHub Stats">

@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi everyone 👋
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+I am ASHOK KUMAR. I am a final engineering graduate student passionate about Data Science, Deep Learning, Computer Vision, Natural Language Processing proficient on Python(Programming Language), Machine Learning(Supervised & Unsupervised), Tableau(Data Visualization), Beautiful Soup(Web Scraping), Flask(Web Application Development), Bootstrap(Front End Development), Heroku(Hosting SaaS Platform), MySQL, MongoDB, etc..., My favourite IDE are Pycharm and Sublime Text.
+
 
 <h1 align="center">SKILLS & TECHNOLOGIES</h1>
 <div align="center">

@@ -2,30 +2,24 @@
 
 <h1 align="center">SKILLS & TECHNOLOGIES</h1>
 
-### Programming Languages
-
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title="java"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript"></code>
-
-### Data Science
-
 <code><img height="50" src="https://user-images.githubusercontent.com/41292977/90338989-5abfc200-e00b-11ea-93b2-737eaa537a65.png" title="numpy"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/41292977/90339040-bc802c00-e00b-11ea-8028-b3a7e098eb67.png" title="pandas"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="scikit-learn"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/41292977/90748632-0f016700-e2f0-11ea-83ca-3cf2d80759ca.png" title="scikit-learn"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/41292977/90753521-57bc1e80-e2f6-11ea-97d7-f73ee4d63eb2.jpg" title="scikit-learn"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/41292977/90753709-8f2acb00-e2f6-11ea-8be5-397f6e5bcd5c.png" title="scikit-learn"></code>
-
-### Web Development
-
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="html"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="css"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" title="flask"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" title="django"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript"></code>
-
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="mysql"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/41292977/90755973-6a842280-e2f9-11ea-8b72-c372b4296953.png" title="nodejs"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/41292977/90756652-42e18a00-e2fa-11ea-825f-d937f59593d2.png" title="bootstrap"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/41292977/90757129-d6b35600-e2fa-11ea-938f-76a8dc48d5be.png" title="sass"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
 
 
 
